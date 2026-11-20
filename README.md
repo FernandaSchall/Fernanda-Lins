@@ -11,4 +11,4 @@
   
 - Previous Coding Experience: z-e-r-o
   
-- What I Hope to Get From This Course: just want to learn something new related to flow to help the users at the flow core
+- What I Hope to Get From This Course: just want to learn something new related to flow
